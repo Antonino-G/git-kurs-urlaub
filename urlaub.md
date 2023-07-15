@@ -35,3 +35,9 @@ Gesamt: 1820€
 ## Verkehrsmittel
 ## Reiseplan
 
+ * Palma
+	* Stadt erkunden
+	* Catedral de MallorcaAlcudia Old Town und Cap de Formentor (Norden)
+	* Serra de Tramuntana (Westen)
+	* Strand
+
