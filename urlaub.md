@@ -22,17 +22,19 @@ Urlaub Mallorca
 
 ## Unterkunft
 
-	* Hotel Palma
+	* Airbnb Palma
 		* 05.09 - 12.09
-		* 140€ / Nacht
-	* Hotel Manacor
+		* 80€ / Nacht
+	* Airbnb Manacor
 		* 12.09 - 19.09
-		* 100€ / Nacht
+		* 90€ / Nacht
 		
-Gesamt: 1620€
+Gesamt: 1190€
+
 
 
 ## Verkehrsmittel
+
 ## Reiseplan
 
  * Palma
@@ -47,4 +49,3 @@ Gesamt: 1620€
 	* Cuevas de Arta
 	* Cala Domingos
 	* Castell de Capdepera
-
