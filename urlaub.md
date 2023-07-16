@@ -35,3 +35,16 @@ Gesamt: 1620€
 ## Verkehrsmittel
 ## Reiseplan
 
+ * Palma
+	* Stadt erkunden
+	* Catedral de MallorcaAlcudia Old Town und Cap de Formentor (Norden)
+	* Serra de Tramuntana (Westen)
+	* Strand
+	
+ * Manacor
+	* Stadt erkunden
+	* Fahrrad: Via Verde Manacor-Arta
+	* Cuevas de Arta
+	* Cala Domingos
+	* Castell de Capdepera
+
