@@ -18,6 +18,7 @@ Urlaub Mallorca
 * Hinflug: STR -> PMI, 05. Sep. 13:37
 * Rückflug: PMI -> STR, 19. Sep. 13:37
 
+Flüge Kompensieren: link
 
 ## Unterkunft
 
