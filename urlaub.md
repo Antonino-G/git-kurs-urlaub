@@ -33,7 +33,11 @@ Gesamt: 1190€
 
 
 ## Verkehrsmittel
-
+** Öffentliche Verkehrsmittel
+	* TIB: Bus, Metro über ganze Insel
+	
+	* EMT: Bus Großraum Palma
+	
 ## Reiseplan
 
  * Palma
